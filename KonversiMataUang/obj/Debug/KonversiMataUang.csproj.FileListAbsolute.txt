@@ -1,0 +1,20 @@
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\bin\Debug\PBKK-Currency Converter App.exe.config
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\bin\Debug\PBKK-Currency Converter App.exe
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\bin\Debug\PBKK-Currency Converter App.pdb
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK-Currency Converter App.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK_Currency_Converter_App.Form1.resources
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK_Currency_Converter_App.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK-Currency Converter App.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK-Currency Converter App.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK-Currency Converter App.exe
+C:\Users\Windows 10\source\repos\PBKK-Currency Converter App\PBKK-Currency Converter App\obj\Debug\PBKK-Currency Converter App.pdb
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\bin\Debug\KonversiMataUang.exe.config
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\bin\Debug\KonversiMataUang.exe
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\bin\Debug\KonversiMataUang.pdb
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.csprojAssemblyReference.cache
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.Properties.Resources.resources
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.csproj.GenerateResource.cache
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.csproj.CoreCompileInputs.cache
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.exe
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.pdb
+C:\Users\cacel\source\repos\KonversiMataUang\KonversiMataUang\obj\Debug\KonversiMataUang.Form1.resources

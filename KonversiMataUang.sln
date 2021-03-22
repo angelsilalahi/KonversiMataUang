@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonversiMataUang", "KonversiMataUang\KonversiMataUang.csproj", "{3DA38CA2-2794-4195-92D5-DA4756A582FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA38CA2-2794-4195-92D5-DA4756A582FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA38CA2-2794-4195-92D5-DA4756A582FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA38CA2-2794-4195-92D5-DA4756A582FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA38CA2-2794-4195-92D5-DA4756A582FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FE93D8-12EA-4113-AEEA-6835226A8D9E}
+	EndGlobalSection
+EndGlobal
